@@ -1,0 +1,18 @@
+
+# SO / temporales
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+# Node/Web
+node_modules/
+dist/
+build/
+# Python
+__pycache__/
+*.pyc
+# Editores
+.vscode/
+.idea/
+# Logs
+*.log
