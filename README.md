@@ -97,7 +97,6 @@ Aquí puedes ver una representación visual de la arquitectura del sistema:
 
 ![Diagrama de Arquitectura del Sistema](images/architecture_diagram.png)
 
-*(Asegúrate de que la imagen `architecture_diagram.png` esté en la carpeta `images`.)*
 
 ### 3.2. Componentes del Backend
 Desarrollado con tecnologías ligeras para optimizar el rendimiento en las BBB:
@@ -184,4 +183,4 @@ Este proyecto está bajo la Licencia [Nombre de la Licencia, e.g., MIT, GPLv3]. 
 ---
 
 ## 8. Contacto
-Para preguntas, sugerencias o colaboraciones, puedes contactar a [Tu Correo Electrónico] o abrir un "issue" en este repositorio.
+Para preguntas, sugerencias o colaboraciones, puedes contactar a [badolfogm@gmail.com] o abrir un "issue" en este repositorio.
