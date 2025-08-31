@@ -178,7 +178,13 @@ La arquitectura modular permite una migración fluida a un servidor más robusto
 ---
 
 ## 7. Licencia
-Este proyecto está bajo la Licencia [Nombre de la Licencia, e.g., MIT, GPLv3]. Consulta el archivo `LICENSE` para más detalles.
+
+Este proyecto está bajo la Licencia **GNU Affero General Public License v3.0 (AGPLv3)**. Esto asegura que el software y todas sus modificaciones permanezcan siempre libres y abiertos para la comunidad.
+
+Consulta el archivo [LICENSE](LICENSE) para ver el texto completo de la licencia.
+
+**Licenciamiento Comercial:**
+Para entidades que deseen integrar este software en productos propietarios o que no puedan cumplir con los términos de la AGPLv3, ofrecemos licencias comerciales. Por favor, contactar a [badolfogm@gmail.com] para más información.
 
 ---
 
